@@ -1,0 +1,6 @@
+.bg-bg {
+    font-family: montserrat, sans-serif;
+	background: url(../img/bg.jpg)repeat 0 0; ;
+	background-size: cover;
+	background-position: center;
+  }
